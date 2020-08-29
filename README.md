@@ -1,0 +1,2 @@
+# masanoriGitSample
+リポジトリのサンプルです。
